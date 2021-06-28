@@ -1,0 +1,21 @@
+.error {
+  color: red;
+}
+
+.success {
+  color: green;
+}
+
+.btn-delete {
+  background-color: red;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 4px 8px;
+}
+
+.profile-url {
+  display: inline-block;
+  width: 70%;
+  margin: 5px auto;
+}
