@@ -1,2 +1,1 @@
-
-https://profile-saver.netlify.app/
+Please ddownload this project and extract and add to chrome extension
